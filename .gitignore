@@ -1,1 +1,3 @@
 ./rssagg-server
+.env*.local
+.env*.example
